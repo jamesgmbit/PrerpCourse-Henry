@@ -1,2 +1,1 @@
-# PrerpCourse-Henry
-Este es un repositorio del modulo2 del prepcourse de Henry
+Este proyeto es una prueba de como clonarlo y guardarlo a mi escritorio local.
